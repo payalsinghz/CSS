@@ -1,0 +1,12 @@
+div{
+    height: 200px;
+}
+div{
+    width: 500px;
+}
+div{
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    background-color: pink;
+}
